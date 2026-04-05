@@ -1,0 +1,17 @@
+Análise do histograma:
+-> O histograma mostra que a maior concentração de notas está na faixa intermediária, aproximadamente entre 5 e 7,
+onde ocorre o pico de frequência. Isso indica que a maioria dos alunos obteve desempenho mediano.
+-> Há também uma quantidade menor de notas nas faixas mais altas (próximas de 8 a 10),
+sugerindo que poucos alunos tiveram desempenho muito acima da média.
+-> A distribuição apresenta uma leve concentração central, sem forte assimetria, mas com uma dispersão moderada,
+indicando que as notas estão relativamente espalhadas ao redor do centro, sem concentração extrema em apenas um intervalo.
+
+Análise do boxplot:
+-> O boxplot reforça a distribuição observada no histograma. A mediana das notas está aproximadamente em torno de 5,5 a 6,
+indicando que metade da turma teve notas abaixo desse valor e metade acima.
+-> Os quartis mostram que a maior parte das notas está concentrada aproximadamente entre 4,5 e 7,
+o que evidencia uma dispersão moderada e um agrupamento na faixa intermediária.
+-> Os “bigodes” se estendem aproximadamente de 3 a 8, indicando o intervalo típico das notas sem considerar valores extremos.
+-> Além disso, há indícios de outliers, com valores isolados próximos de 2 (nota baixa) e 9 ou 10 (nota alta),
+mostrando que alguns alunos se destacaram negativamente e positivamente em relação ao restante da turma.
+
